@@ -10,7 +10,7 @@ namespace Records{
     Employee::Employee(std::string const& first, std::string const& last, int num, bool hired):
         firstName{first}, 
         lastName{last}, 
-        mEmployeeNumber{num}, 
+        employeeNumber{num},
         iHired{hired} { }
 
     
@@ -85,6 +85,6 @@ namespace Records{
 
     int Employee::getEmployeeNumber() const
     {
-        return mEmployeeNumber;
+        return employeeNumber;
     }
 }
