@@ -1,1 +1,1 @@
-Alguns códigos em C++ feitos para a fim de demonstração, utilizando alguns conceitos da linguagem.
+Alguns códigos em C++ feitos para a fim de demonstração, utilizando alguns conceitos da linguagem como polimorfismo, herança, smart pointers, virtual functions, classe abstrata, organização do projeto com arquivos separados .h e .cpp, codígo com teste, etc.
